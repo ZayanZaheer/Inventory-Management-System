@@ -1,0 +1,50 @@
+1,Apple,Fruits,kg,2.99,100,20
+2,Banana,Fruits,kg,1.49,150,30
+3,Orange,Fruits,kg,2.49,80,15
+4,Carrot,Vegetables,kg,0.99,200,40
+5,Broccoli,Vegetables,kg,1.79,100,20
+6,Tomato,Vegetables,kg,1.29,120,25
+7,Chicken,Meat,kg,6.99,50,10
+8,Beef,Meat,kg,9.99,40,8
+9,Pork,Meat,kg,7.49,60,12
+10,Salmon,Seafood,kg,12.99,30,6
+11,Shrimp,Seafood,kg,14.99,25,5
+12,Tuna,Seafood,kg,10.99,35,7
+13,Bread,Bakery,loaf,2.49,80,15
+14,Croissant,Bakery,piece,1.99,10,20
+15,Bagel,Bakery,piece,1.79,120,25
+16,Milk,Dairy,liter,2.99,70,14
+17,Cheese,Dairy,kg,5.99,40,8
+18,Yogurt,Dairy,pack,3.49,90,18
+19,Eggs,Dairy,dozen,2.99,50,10
+20,Rice,Grains,kg,1.99,200,40
+21,Pasta,Grains,pack,1.29,150,30
+22,Quinoa,Grains,kg,4.99,60,12
+23,Salt,Condiments,pack,0.99,100,20
+24,Sugar,Condiments,kg,1.49,120,25
+25,Ketchup,Condiments,bottle,2.49,80,15
+26,Water,Beverages,bottle,0.99,25,40
+27,Soda,Beverages,can,1.49,150,30
+28,Coffee,Beverages,pack,4.99,60,12
+29,Tea,Beverages,pack,3.99,80,16
+30,Toilet Paper,Household,pack,5.99,40,8
+31,Tissue Paper,Household,pack,2.99,10,20
+32,Dish Soap,Household,bottle,2.49,80,15
+33,Detergent,Household,pack,4.99,60,12
+34,Toothpaste,Personal Care,tube,1.99,150,30
+35,Shampoo,Personal Care,bottle,3.99,80,16
+36,Soap,Personal Care,bar,0.99,200,40
+37,Conditioner,Personal Care,bottle,4.49,70,14
+38,Toothbrush,Personal Care,pack,2.49,100,20
+39,Battery,Electronics,pack,3.99,60,12
+40,Light Bulb,Electronics,pack,2.49,120,25
+41,Phone Charger,Electronics,piece,9.99,35,7
+42,Headphones,Electronics,piece,19.99,25,5
+43,USB Cable,Electronics,piece,4.99,50,10
+44,Paper Clips,Office Supplies,pack,0.99,100,20
+45,Pens,Office Supplies,pack,2.49,80,15
+46,Notebooks,Office Supplies,pack,4.99,60,12
+47,Stapler,Office Supplies,piece,3.99,40,8
+48,Tape,Office Supplies,roll,1.49,120,25
+49,Scissors,Office Supplies,piece,2.99,100,20
+50,Gift Card,Miscellaneous,piece,25.0,10,2

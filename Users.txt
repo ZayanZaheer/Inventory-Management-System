@@ -1,0 +1,5 @@
+Administrator,@dmin123,Admin
+Seller,f00d,Stocker
+Customer,bUy,Buyer
+Julius,1234,Buyer
+Kaspien,J0k3,admin
